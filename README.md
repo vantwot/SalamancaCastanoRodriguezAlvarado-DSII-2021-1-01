@@ -9,7 +9,7 @@ Pequeña práctica sobre los comandos básicos de git:
 
 Integrantes del equipo
   
-  Valentina Salamanca 
-  Santiago Castaño de la Cruz
-  Deiby Rodriguez
-  Juan Felipe Alvarado
+ * Valentina Salamanca 
+ * Santiago Castaño de la Cruz
+ * Deiby Rodriguez
+ * Juan Felipe Alvarado
